@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Sree 👋
 
-<!--
-**deekshu05/deekshu05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer** building production-grade GenAI systems — RAG pipelines, agentic workflows, and LLMOps — currently at Citigroup.
 
-Here are some ideas to get you started:
+### What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **GenAI & LLMs:** RAG, agentic systems, prompt engineering, LLM fine-tuning, embeddings — GPT-4, Anthropic Claude, Llama 2/3, Mistral
+- **Frameworks:** LangChain, LangGraph, LlamaIndex, PyTorch, TensorFlow, Hugging Face Transformers
+- **Infra & APIs:** FastAPI, Docker, AWS (EC2, S3), PostgreSQL, MongoDB, FAISS, Pinecone
+- **LLMOps:** MLflow, LangSmith, Weights & Biases, CI/CD, evaluation pipelines
+
+### Featured projects
+
+- 🤖 **[agentic-financial-data-extraction](https://github.com/deekshu05/agentic-financial-data-extraction)** — LangGraph-style multi-agent workflow that extracts, reasons over, and validates structured financial data from unstructured filings
+- 🛠️ **[ai-legacy-code-modernization-platform](https://github.com/deekshu05/ai-legacy-code-modernization-platform)** — LLM-powered platform that identifies legacy code patterns via AST analysis and generates optimized, prompt-engineered code transformations
+- 📚 **[enterprise-rag-document-qa](https://github.com/deekshu05/enterprise-rag-document-qa)** — RAG pipeline over enterprise documents using FAISS, embeddings, and semantic search, with grounded, source-cited answers
+- 🎯 **[llm-finetuning-eval-pipeline](https://github.com/deekshu05/llm-finetuning-eval-pipeline)** — Fine-tunes and evaluates open-source LLMs (Llama/Mistral) with MLflow-tracked evaluation metrics
+
+### Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sree-deekshitha-kollipara)
+- 📫 ksreedeekshitha@gmail.com
