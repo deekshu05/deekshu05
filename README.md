@@ -1,10 +1,10 @@
 ## Hi, I'm Sree 👋
 
-**AI/ML Engineer** building production-grade GenAI systems — RAG pipelines, agentic workflows, and LLMOps — currently at Citigroup.
+**AI/ML Engineer** building production-grade GenAI systems, RAG pipelines, agentic workflows, and LLMOps, Currently at Citigroup.
 
 ### What I work with
 
-- **GenAI & LLMs:** RAG, agentic systems, prompt engineering, LLM fine-tuning, embeddings — GPT-4, Anthropic Claude, Llama 2/3, Mistral
+- **GenAI & LLMs:** RAG, agentic systems, prompt engineering, LLM fine-tuning, embeddings  GPT-4, Anthropic Claude, Llama 2/3, Mistral
 - **Frameworks:** LangChain, LangGraph, LlamaIndex, PyTorch, TensorFlow, Hugging Face Transformers
 - **Infra & APIs:** FastAPI, Docker, AWS (EC2, S3), PostgreSQL, MongoDB, FAISS, Pinecone
 - **LLMOps:** MLflow, LangSmith, Weights & Biases, CI/CD, evaluation pipelines
